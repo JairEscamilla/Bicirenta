@@ -1,6 +1,6 @@
 # Final Proyect: "Bicycle Rental System"
-This project was done in the subject of Programming Fundamentals at Universidad Iberoamericana.
-The project try to simulate the ecobici's system that is being implemented in Mexico City.
+This project was done at the subject Programming Fundamentals at Universidad Iberoamericana.
+The project tries to simulate the ecobici's system that is being implemented in Mexico City.
 
 ## Compilation
 You need to open the terminal and write:
@@ -9,19 +9,19 @@ $gcc bicirenta.c -o bicirenta.exe
 ```
 
 ## Usage
-You can run the program of 3 ways. First, you can see the users registrations with the comand:
+You can run the program in 3 ways. You can see the users registrations with the command:
 ```bash
 $./bicirenta.exe -usu
 ```
-Second, you can see the help menu with the command:
+You can see the help menu with the command:
 ```bash
 $./bicirenta.exe -h
 ```
-Third, you can see the developers credits with the command:
+You can see the developers credits with the command:
 ```bash
 $./bicirenta.exe -c
 ```
-Finally, if you don't introduce parameters to the program from the terminal, you can login into the system. Example:
+If you don't introduce any parameters to the program from the terminal, you can login into the system. Example:
 ```bash
 $./bicirenta.exe
 ```
